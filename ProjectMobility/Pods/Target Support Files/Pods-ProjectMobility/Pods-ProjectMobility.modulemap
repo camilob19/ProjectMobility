@@ -1,0 +1,6 @@
+framework module Pods_ProjectMobility {
+  umbrella header "Pods-ProjectMobility-umbrella.h"
+
+  export *
+  module * { export * }
+}
